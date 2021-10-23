@@ -3,8 +3,9 @@ export default {}
 </script>
 
 <template>
-  <MainNav />
-  <h1>Home Page</h1>
+  <div>
+    <h1>Home Page</h1>
+  </div>
 </template>
 
 <style></style>
